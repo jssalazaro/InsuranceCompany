@@ -1,0 +1,12 @@
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\bin\Debug\net6.0\InsuranceCompnay.Abstractions.deps.json
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\bin\Debug\net6.0\InsuranceCompnay.Abstractions.dll
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\bin\Debug\net6.0\InsuranceCompnay.Abstractions.pdb
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\obj\Debug\net6.0\InsuranceCompnay.Abstractions.csproj.AssemblyReference.cache
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\obj\Debug\net6.0\InsuranceCompnay.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\obj\Debug\net6.0\InsuranceCompnay.Abstractions.AssemblyInfoInputs.cache
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\obj\Debug\net6.0\InsuranceCompnay.Abstractions.AssemblyInfo.cs
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\obj\Debug\net6.0\InsuranceCompnay.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\obj\Debug\net6.0\InsuranceCompnay.Abstractions.dll
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\obj\Debug\net6.0\refint\InsuranceCompnay.Abstractions.dll
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\obj\Debug\net6.0\InsuranceCompnay.Abstractions.pdb
+C:\Users\jssal\source\repos\InsuranceCompany\InsuranceCompnay.Abstraction\obj\Debug\net6.0\ref\InsuranceCompnay.Abstractions.dll

@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\DataAccess\\InsuranceCompnay.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\DataAccess\\InsuranceCompnay.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\DataAccess\\InsuranceCompnay.DataAccess.csproj",
+        "projectName": "InsuranceCompnay.DataAccess",
+        "projectPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\DataAccess\\InsuranceCompnay.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\jssal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jssal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\InsuranceCompnay.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\InsuranceCompnay.Abstractions.csproj"
+              },
+              "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Entities\\InsuranceCompnay.Entities.csproj": {
+                "projectPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Entities\\InsuranceCompnay.Entities.csproj"
+              },
+              "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Services\\InsuranceCompnay.Services.csproj": {
+                "projectPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Services\\InsuranceCompnay.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\InsuranceCompnay.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\InsuranceCompnay.Abstractions.csproj",
+        "projectName": "InsuranceCompnay.Abstractions",
+        "projectPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\InsuranceCompnay.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\jssal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jssal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Entities\\InsuranceCompnay.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Entities\\InsuranceCompnay.Entities.csproj",
+        "projectName": "InsuranceCompnay.Entities",
+        "projectPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Entities\\InsuranceCompnay.Entities.csproj",
+        "packagesPath": "C:\\Users\\jssal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jssal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\InsuranceCompnay.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\InsuranceCompnay.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Services\\InsuranceCompnay.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Services\\InsuranceCompnay.Services.csproj",
+        "projectName": "InsuranceCompnay.Services",
+        "projectPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Services\\InsuranceCompnay.Services.csproj",
+        "packagesPath": "C:\\Users\\jssal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jssal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\InsuranceCompnay.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\jssal\\source\\repos\\InsuranceCompany\\InsuranceCompnay.Abstraction\\InsuranceCompnay.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

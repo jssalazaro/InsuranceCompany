@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\InsuranceCompnay.DataAccess.csproj" />
+    <ProjectReference Include="..\InsuranceCompnay.Abstraction\InsuranceCompnay.Abstractions.csproj" />
+    <ProjectReference Include="..\InsuranceCompnay.Entities\InsuranceCompnay.Entities.csproj" />
+    <ProjectReference Include="..\InsuranceCompnay.Services\InsuranceCompnay.Services.csproj" />
+  </ItemGroup>
+
+</Project>

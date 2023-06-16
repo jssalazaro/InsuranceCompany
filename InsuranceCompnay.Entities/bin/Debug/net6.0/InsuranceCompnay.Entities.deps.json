@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InsuranceCompnay.Entities/1.0.0": {
+        "dependencies": {
+          "InsuranceCompnay.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "InsuranceCompnay.Entities.dll": {}
+        }
+      },
+      "InsuranceCompnay.Abstractions/1.0.0": {
+        "runtime": {
+          "InsuranceCompnay.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InsuranceCompnay.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InsuranceCompnay.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
